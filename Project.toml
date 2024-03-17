@@ -1,0 +1,3 @@
+[deps]
+imagesegmentation = "v1.8.2"
+Flux = "v0.14.13"
